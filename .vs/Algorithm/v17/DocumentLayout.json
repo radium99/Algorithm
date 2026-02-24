@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\wanted4th\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F56850-0F41-4846-826B-2D3B7F36BEEA}|SelectionSort\\SelectionSort.vcxproj|C:\\workspace\\wanted4th\\Algorithm\\SelectionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13F56850-0F41-4846-826B-2D3B7F36BEEA}|SelectionSort\\SelectionSort.vcxproj|solutionrelative:SelectionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A24FF7-AED0-4A8C-BC36-CC8D8C47A6D4}|BubbleSort\\BubbleSort.vcxproj|C:\\workspace\\wanted4th\\Algorithm\\BubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A24FF7-AED0-4A8C-BC36-CC8D8C47A6D4}|BubbleSort\\BubbleSort.vcxproj|solutionrelative:BubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF05E3F-3214-4931-AFA6-21B86D63A055}|BinarySearch\\BinarySearch.vcxproj|C:\\workspace\\wanted4th\\Algorithm\\BinarySearch\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EF05E3F-3214-4931-AFA6-21B86D63A055}|BinarySearch\\BinarySearch.vcxproj|solutionrelative:BinarySearch\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB2CE38-823A-4D6C-AF0C-5907586EF9B7}|Random\\Random.vcxproj|C:\\workspace\\wanted4th\\Algorithm\\Random\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB2CE38-823A-4D6C-AF0C-5907586EF9B7}|Random\\Random.vcxproj|solutionrelative:Random\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\workspace\\wanted4th\\Algorithm\\SelectionSort\\Main.cpp",
+              "RelativeDocumentMoniker": "SelectionSort\\Main.cpp",
+              "ToolTip": "C:\\workspace\\wanted4th\\Algorithm\\SelectionSort\\Main.cpp",
+              "RelativeToolTip": "SelectionSort\\Main.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T06:42:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\workspace\\wanted4th\\Algorithm\\BubbleSort\\Main.cpp",
+              "RelativeDocumentMoniker": "BubbleSort\\Main.cpp",
+              "ToolTip": "C:\\workspace\\wanted4th\\Algorithm\\BubbleSort\\Main.cpp",
+              "RelativeToolTip": "BubbleSort\\Main.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T05:06:59.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\workspace\\wanted4th\\Algorithm\\Random\\Main.cpp",
+              "RelativeDocumentMoniker": "Random\\Main.cpp",
+              "ToolTip": "C:\\workspace\\wanted4th\\Algorithm\\Random\\Main.cpp",
+              "RelativeToolTip": "Random\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T01:56:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\workspace\\wanted4th\\Algorithm\\BinarySearch\\Main.cpp",
+              "RelativeDocumentMoniker": "BinarySearch\\Main.cpp",
+              "ToolTip": "C:\\workspace\\wanted4th\\Algorithm\\BinarySearch\\Main.cpp",
+              "RelativeToolTip": "BinarySearch\\Main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T01:05:07.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
